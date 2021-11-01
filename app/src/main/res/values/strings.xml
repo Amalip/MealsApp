@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Exam2</string>
+    <string name="text_categories">Categories</string>
+    <string name="text_no_info">There is no information</string>
+    <string name="text_account">Account</string>
+    <string name="text_random">Random</string>
+    <string name="text_register">Register</string>
+    <string name="text_password">Password</string>
+    <string name="text_username">Username</string>
+    <string name="text_login">Login</string>
+    <string name="text_go_to_register"><u>Don\'t have an account? Go to register.</u></string>
+    <string name="text_go_to_login"><u>Or go to Login</u></string>
+    <string name="text_do_it">Do it!</string>
+
+    <string name="failure_user_not_found">Username and/or password are not correct</string>
+    <string name="failure_register_error">Something went wrong, please check your information and try again</string>
+    <string name="failure_user_exists">This username is already in use</string>
+    <string name="text_logout">Logout</string>
+
+    <string name="failure_no_internet">Theres is no internet connection</string>
+    <string name="failure_db">We could not connect to the database</string>
+    <string name="failure_unauthorized">You are no logged in</string>
+    <string name="text_query_hint">Meal name</string>
+
+</resources>
